@@ -5,29 +5,22 @@ A Python chatbot with attitude! Built with OpenAI'\''s GPT-4o-mini.
 ## Quick Start
 
 1. Clone the repo:
-\`\`\`bash
 git clone https://github.com/Fiona-7788/AI-Chatbot.git
 cd AI-Chatbot
-\`\`\`
 
 2. Install dependencies:
-\`\`\`bash
 pip install openai tiktoken
-\`\`\`
 
-3. Set your OpenAI API key:
-\`\`\`bash
+3. Set your OpenAI API key
+
 # On Mac/Linux:
 export OPENAI_API_KEY="your-key-here"
 
 # On Windows (PowerShell):
 \$env:OPENAI_API_KEY="your-key-here"
-\`\`\`
 
 4. Run the chatbot:
-\`\`\`bash
 python AI_chatbot.py
-\`\`\`
 
 ## Features
 - 🤬 Sassy, fed-up personality
