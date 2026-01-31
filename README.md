@@ -1,4 +1,4 @@
-echo '# AI Chatbot 🤖
+# AI Chatbot 🤖
 
 A Python chatbot with attitude! Built with OpenAI'\''s GPT-4o-mini.
 
